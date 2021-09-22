@@ -1,9 +1,11 @@
 # Capstone-Physics-All
 
-All assignments are due by the beginning of class!
+All assignments are due at the *end* of class! 
+
+9/22/21 Update: Postponed due dates to end of class on Friday. 
 
 ### Due Dates
-Assignment 1 - 9/21/21 \
-Assignment 2 - 9/21/21 \
-Assignment 3 - 9/21/21 \
-Assignment 4 - 9/23/21 
+Assignment 1 - 9/24/21 \
+Assignment 2 - 9/24/21 \
+Assignment 3 - 9/24/21 \
+Assignment 4 - 9/24/21 
