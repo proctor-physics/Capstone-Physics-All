@@ -8,5 +8,5 @@ All assignments are due at the *end* of class!
 Assignment 1 - 9/24/21 \
 Assignment 2 - 9/24/21 \
 Assignment 3 - 9/24/21 \
-Assignment 4 - 9/24/21 \ 
+Assignment 4 - 9/24/21 \
 Assignment 5 - 9/27/21
