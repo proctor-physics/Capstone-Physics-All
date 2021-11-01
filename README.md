@@ -11,8 +11,7 @@ Assignment 5 - 9/27/21 \
 Assignment 6 - 10/1/21 \
 Assignment 7 - 10/1/21 \
 Assignment 8 - 10/15/21 \
-Assignment 9 - 10/19/21 
-
-
-9/22/21 Update: Postponed due dates to end of class on Friday. \
-9/24/21 Update: Set due date for Assignment 4 and 5 to Monday.
+Assignment 9 - 10/19/21 \
+Assignment 10 - 10/29/21 \
+Assignment 11 - 10/29/21 \
+Assignment 12 - 11/2/21 \
